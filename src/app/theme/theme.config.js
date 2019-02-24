@@ -20,6 +20,10 @@
     //    white: '#ffffff',
     //  },
     //});
+    baConfigProvider.changeColors({
+      default: '#3ea3ff',
+      defaultText: '#3ea3ff',
+    });
   }
 
   /** @ngInject */
